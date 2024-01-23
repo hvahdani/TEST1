@@ -2,20 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://hvahdani.github.io/TEST1/-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "فایل جدید" ] },
-    "homepage": [
-      {
-        "id": "https://motamem.org/%D9%81%D8%A7%DB%8C%D9%84-%D8%B5%D9%88%D8%AA%DB%8C-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D9%85%D8%AA%D9%85%D9%85-%D9%85%D9%87%D8%A7%D8%B1%D8%AA-%D8%B3%D8%AE%D9%86%D8%B1%D8%A7%D9%86%DB%8C/",
-        "type": "Text",
-        "label": { "en": [ "فایل جدید" ] },
-        "format": "text/html"
-      }
-    ],
+    "label": { "en": [ "تست جدید" ] },
     "items": [
       {
         "id": "https://hvahdani.github.io/TEST1/-/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 123,
+        "duration": 1425.0,
         "annotations": [
           
           {
@@ -36,10 +28,10 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "http://dl.motamem.org/Public-Speaking.mp3",
+                  "id": "https://ostadaali.ir/wp-content/uploads/wp-files/2020/01/%D8%A8%D8%AE%D8%B4%D8%B4%20%D9%88%20%D8%B1%D8%AD%D9%85%D8%AA%20%D8%AE%D8%AF%D8%A7%D9%88%D9%86%D8%AF.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                    "duration": 123
+                    "duration": 1425.0
                 },
                 "target": "https://hvahdani.github.io/TEST1/-/canvas-1/canvas"
               }
