@@ -3,6 +3,14 @@
     "id": "https://hvahdani.github.io/TEST1/-/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "فایل جدید" ] },
+    "homepage": [
+      {
+        "id": "https://motamem.org/%D9%81%D8%A7%DB%8C%D9%84-%D8%B5%D9%88%D8%AA%DB%8C-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D9%85%D8%AA%D9%85%D9%85-%D9%85%D9%87%D8%A7%D8%B1%D8%AA-%D8%B3%D8%AE%D9%86%D8%B1%D8%A7%D9%86%DB%8C/",
+        "type": "Text",
+        "label": { "en": [ "فایل جدید" ] },
+        "format": "text/html"
+      }
+    ],
     "items": [
       {
         "id": "https://hvahdani.github.io/TEST1/-/canvas-1/canvas",
@@ -18,7 +26,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "",
+                  "id": "http://dl.motamem.org/Public-Speaking.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
                     "duration": 123
                 },
                 "target": "https://hvahdani.github.io/TEST1/-/canvas-1/canvas"
