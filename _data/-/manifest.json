@@ -16,6 +16,16 @@
         "id": "https://hvahdani.github.io/TEST1/-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 123,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://hvahdani.github.io/TEST1/annotations/--canvas-1--------.json",
+            "label": {
+              "none": ["توضیحات"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://hvahdani.github.io/TEST1/-/canvas-1/paintings",
